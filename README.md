@@ -21,5 +21,5 @@ To get started with this project, follow these steps:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-classifier-app.git
+git clone https://github.com/yourusername/image-classifier-app.git
 cd image-classifier-app
